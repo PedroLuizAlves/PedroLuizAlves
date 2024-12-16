@@ -3,6 +3,7 @@
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943433572)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLuizAlves&theme=shadow_red)
+
 ## Tecnologias exploradas
 <div style="display: inline_block"><br/>
 <img align="center" alt="Html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
